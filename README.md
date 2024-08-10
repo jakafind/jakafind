@@ -1,4 +1,4 @@
-<h1 align="center">He Everyone, Welcome to JakaFind</h1>
+<h1 align="center">Hello Everyone, Welcome to JakaFind</h1>
 <h3 align="center">Coure & Resource Service Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakafind&label=Profile%20views&color=0e75b6&style=flat" alt="jakafind" /> </p>
