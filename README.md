@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [JakariaA](https://www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFast](https://www.jakafast.com) , [JakaFind](https://www.jakafind.com)
 
-- 📝 I regularly write articles on Programming at [JakaFind](https://www.jakafind.com) , [JakariaA](https://www.jakariaa.com)
+- 📝 We regularly write articles on Programming at [JakaFind](https://www.jakafind.com) , [JakariaA](https://www.jakariaa.com)
 
 - 📫 How to reach me **info@jakafind.com** **info.jakafind@gmail.com** 
 
